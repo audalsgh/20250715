@@ -15,7 +15,7 @@
 ## gpt의 정리
 TensorFlow 모델은 첫 번째 데이터가 통과해야 완전히 초기화됨<br>
 
-🧠 CNN 구조와 동작 과정 완전 정리 (확장판)
+🧠 **CNN 구조와 동작 과정 완전 정리 (확장판)**
 1. CNN 모델 전체 구조
 🏗️ 레이어 구성
 ```python
@@ -39,6 +39,7 @@ Sequential([
     Dense(3, activation='softmax')  # Animal/Car/Other
 ])
 ```
+
 2. 필터 개수 총정리
 레이어   필터 개수   필터 크기   출력 특징맵
 Conv2D #1   16개   3×3   16개
