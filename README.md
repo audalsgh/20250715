@@ -225,6 +225,6 @@ Dense 레이어: 최종 판단 (분류 결정)<br>
 집단 지능: 112개 필터의 협업<br>
 이 모든 것이 합쳐져서 한 장의 사진을 보고 "이건 동물이야!"라고 말할 수 있는 인공지능이 되는 것입니다! 🚀✨🧠
 
-## 2. ImageNet 물체인식 라이브러리 코드 분석 (CNN 필요없음)
+## 2. 0716 ImageNet 물체인식 라이브러리 코드 분석 (CNN 필요없음)
 <img width="1413" height="792" alt="image" src="https://github.com/user-attachments/assets/e917b6a8-19d1-4f8d-9112-4a073203f3c0" /><br>
 역시 200줄 이상의 긴 코드고, 주석을 달아가며 공부해야한다.
